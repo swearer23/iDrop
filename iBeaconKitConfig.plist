@@ -11,7 +11,6 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<!--					<string>http://www.idropbeacon.com/download/iBeaconKitConfig.ipa</string> -->
 					<string>https://raw.githubusercontent.com/swearer23/iDrop/master/iBeaconKitConfig.ipa</string>
 				</dict>
 			</array>
@@ -24,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>iBeaconKit</string>
+				<string>iBeaconKitConfig</string>
 			</dict>
 		</dict>
 	</array>
